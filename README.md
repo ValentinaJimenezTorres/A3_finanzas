@@ -16,6 +16,6 @@ Se entrenaron varios modelos de regresión sobre datos históricos (`NoPaidPerc`
 
 El archivo `grupo4.csv` entrega la tasa de interés por riesgo, lista para ser integrada al cálculo total de interés.
 
----
+## Autores
 
-Para más contexto sobre el problema, los datos y la metodología esperada, consultar la **guía del ejercicio** disponible.
+Valentina Jimenez, David Diaz, Vaylen Vega, Nicolás Niño
